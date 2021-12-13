@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! This is a Initlialized file that I need to change! 👋
 
 <!--
 **JohnPetere/JohnPeterE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
